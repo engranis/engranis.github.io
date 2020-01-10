@@ -29,3 +29,9 @@ p.achievement {
 p.description {
     font-family: 'Open Sans', sans-serif;
 }
+.info .icon.icon-circle i{
+    line-height: 2 !important;
+}
+.info .icon>i {
+    font-size: 4em !important;
+}
