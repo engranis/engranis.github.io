@@ -4,11 +4,28 @@
     text
 
 } */
+a.navbar-brand {
+    font-family: 'Fredoka One', cursive;
+}
 #aboutme {
     color: #000000 !important;
+    text-align: justify;
 
 }
 p.achievement {
 font-weight: 300;
 color: #ffffff !important;
+}
+
+p#aboutme {
+    font-family: 'Open Sans', sans-serif;
+}
+h4.description {
+    font-family: 'Open Sans', sans-serif;
+}
+p.achievement {
+    font-family: 'Open Sans', sans-serif;
+}
+p.description {
+    font-family: 'Open Sans', sans-serif;
 }
