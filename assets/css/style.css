@@ -29,9 +29,24 @@ p.achievement {
 p.description {
     font-family: 'Open Sans', sans-serif;
 }
-.info .icon.icon-circle i{
-    line-height: 2 !important;
+
+.achIcon {
+    font-size: 3rem !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  }
+ .svg-inline--fa {     /* svg icon size */
+    display: inline-block !important;
+    font-size: -webkit-xxx-large !important;
+    height: 1em !important;
+    overflow: visible !important;
+    vertical-align: -1.125em !important;
 }
-.info .icon>i {
-    font-size: 4em !important;
+#credentialText {
+    text-align: justify !important;
+  text-justify: inter-word !important;
 }
