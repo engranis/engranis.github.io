@@ -12,6 +12,7 @@ a.navbar-brand {
     color: #000000 !important;
     text-align: justify;
     font-family: sans-serif;
+    font-weight: bold;
   }
 #desText {
     font-weight: bold;
