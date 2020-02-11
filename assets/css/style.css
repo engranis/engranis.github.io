@@ -4,11 +4,60 @@
     text
 
 } */
-#aboutme {
-    color: #000000 !important;
-
+a.navbar-brand {
+    font-family: 'Fredoka One', cursive;
+    font-size: large !important;
 }
+#aboutmetext {
+    color: #000000 !important;
+    text-align: justify;
+    font-family: sans-serif;
+  }
+#desText {
+    font-weight: bold;
+    /* font-family: sans-serif; */
+  
+}
+
+
+
 p.achievement {
 font-weight: 300;
 color: #ffffff !important;
+}
+
+
+
+p.achievement {
+    font-family: 'Open Sans', sans-serif;
+}
+p.description {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.achIcon {
+    font-size: 3rem !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  }
+ .svg-inline--fa {     /* svg icon size */
+    display: inline-block !important;
+    font-size: -webkit-xxx-large !important;
+    height: 1em !important;
+    overflow: visible !important;
+    vertical-align: -1.125em !important;
+}
+#credentialText {
+    text-align: justify !important;
+
+}
+#seemoretext {
+    color: #ffffff !important;
+}
+#msc {
+    font-size: small !important;
 }
